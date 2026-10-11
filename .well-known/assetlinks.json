@@ -1,13 +1,8 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.kscor.gestionfacile",
-      "sha256_cert_fingerprints": [
-        "53:9D:C7:3B:E4:7B:81:46:88:71:E6:BC:48:42:47:40:DA:2B:19:39:1D:E7:35:52:DE:5A:C3:ED:1E:82:1D:B9",
-        "96:9A:BE:B5:FF:63:06:91:9A:F5:31:A1:9C:5D:45:D7:8C:FF:53:AE:3B:7A:F2:B8:C4:67:AC:AC:25:27:02:DD"
-      ]
-    }
-  }
-]
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.kscor.gestionfacile",
+        "sha256_cert_fingerprints": ["C3:0D:27:2B:80:6F:11:87:63:CB:E2:6C:F8:71:E1:84:12:62:F5:3F:EE:5B:18:44:BD:9C:89:AB:A8:41:32:11"]
+      }
+    }]
